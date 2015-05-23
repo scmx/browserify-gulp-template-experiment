@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "babelify": "^6.1.1",
+    "browserify": "^10.2.1",
+    "glob": "^5.0.9",
+    "gulp": "^3.8.11",
+    "gulp-template": "^3.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
